@@ -1,2 +1,3 @@
-# pgxrows
-pgx rows as fungi stream
+# `package pgxrows`
+
+Convert `pgx` rows as [`fungi`](https://github.com/sharpvik/fungi) stream.
